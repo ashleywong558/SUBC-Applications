@@ -1,1 +1,5 @@
-
+mkdir submissions
+touch submissions/.gitkeep
+git add submissions/.gitkeep
+git commit -m "Create submissions folder"
+git push
